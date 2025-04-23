@@ -2,13 +2,14 @@
   {
     "id": 0,
     "src": "img/moani.png",
-    "title": "MOANI 가구 쇼핑몰 (카페24)",
+    "title": "MOANI 가구 쇼핑몰 (카페24 디자인 템플릿 이용)",
     "team": false,
-    "desc": "기술 스택, 경험, 프로젝트 등을 소개하면서 저를 효과적으로 표현하기 위해 제작하였습니다.",
+    "desc": "리액트 첫 번째 프로젝트로, 기술 스택, 경험, 프로젝트 등을 소개하면서 저를 효과적으로 표현하기 위해 제작하였습니다.",
     "skills": ["React", "CSS3"],
     "githubLink": "https://github.com/kkh12345/cafe24_moani",
     "pageLink": "https://tangerine-marigold-dcacb7.netlify.app/"
   },
+
   {
     "id": 1,
     "src": "img/인터파크티켓리뉴얼.png",
@@ -48,5 +49,21 @@
     "skills": ["HTML5", "CSS3", "JavaScript"],
     "githubLink": "https://github.com/kkh12345/renewal_public_institution",
     "pageLink": "https://kkh12345.github.io/renewal_public_institution/"
+  },
+  {
+    "id": 5,
+    "src": "img/mimico.png",
+    "title": "mimico 쇼핑몰 (4.22부터 제작중..)",
+    "team": false,
+    "desc": "상태 관리 라이브러리 사용과 첫 리액트트 프로젝트보다 개선된 코드로 제작하기 위함함",
+    "skills": [
+      "React",
+      "CSS3",
+      "styled-components",
+      "redux-toolkit",
+      "react-hook-from"
+    ],
+    "githubLink": "https://github.com/kkh12345/cafe24_mimico",
+    "pageLink": ""
   }
 ]
