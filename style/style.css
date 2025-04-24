@@ -550,7 +550,11 @@ section {
   background-color: #cd6799;
   color: #fff;
 }
-
+.skill-box.styled-components,
+.skill-box.redux-toolkit,
+.skill-box.react-hook-from {
+  border: 1px solid #333;
+}
 .skill-box.React {
   background-color: #000;
   color: #61dafb;
