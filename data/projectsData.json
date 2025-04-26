@@ -61,7 +61,8 @@
       "CSS3",
       "styled-components",
       "redux-toolkit",
-      "react-hook-from"
+      "react-hook-from",
+      "react-responsive"
     ],
     "githubLink": "https://github.com/kkh12345/cafe24_mimico",
     "pageLink": "https://nimble-taffy-e9bacb.netlify.app/"

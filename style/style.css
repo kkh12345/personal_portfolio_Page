@@ -300,7 +300,16 @@ section {
 }
 
 .education-area .paragraph02 li {
+  display: flex;
+  align-items: center;
   overflow: hidden;
+}
+.education-area .paragraph02 li .text-up {
+  display: inline-block;
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .education-area .paragraph02 li:not(:first-child) {
@@ -312,8 +321,8 @@ section {
 }
 
 .education-area .paragraph02 li::before {
+  align-self: stretch;
   content: url('../img/check-square.svg');
-  display: inline-block;
   margin-right: 5px;
   transform: translateY(100%);
   transition: all 0.3s linear;
@@ -552,7 +561,8 @@ section {
 }
 .skill-box.styled-components,
 .skill-box.redux-toolkit,
-.skill-box.react-hook-from {
+.skill-box.react-hook-from,
+.skill-box.react-responsive {
   border: 1px solid #333;
 }
 .skill-box.React {
