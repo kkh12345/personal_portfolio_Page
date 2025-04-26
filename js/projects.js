@@ -62,7 +62,6 @@ function projectSection() {
     slide();
   }
 
-  let currentPage = 0;
   //반응형 슬라이드 개수 변경
   const slideMatch = matchMedia('(max-width : 820px)');
   slideMatch.addEventListener('change', function () {
@@ -79,8 +78,7 @@ function projectSection() {
   //버튼 보이기,사라지기
 
   //프로젝트 섹션 슬라이드 함수
-  function slide(slidePerView = 2) {
-    console.log(currentPage);
+  function slide(slidePerView = 2, currentPage = 0) {
     const slideWrapper = document.querySelector(
       '.projects-area .slide-wrapper'
     );
