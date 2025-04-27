@@ -40,7 +40,7 @@ function introFull() {
         } else {
           resolve();
         }
-      }, 600);
+      }, 500);
       if (introMatch.matches) {
         clearTimeout(timer);
         resolve();
@@ -58,7 +58,7 @@ function introFull() {
           cursor.style.display = 'inline-block';
           resolve();
         }
-      }, 500);
+      }, 1300);
       if (introMatch.matches) {
         cursor.style.display = 'none';
         clearTimeout(timer);
@@ -90,7 +90,7 @@ function introFull() {
               resolve();
             }
           }
-        }, 200);
+        }, 150);
       }, 500);
       if (introMatch.matches) {
         introText.innerHTML = string;

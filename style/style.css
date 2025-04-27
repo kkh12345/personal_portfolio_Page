@@ -230,7 +230,7 @@ section {
 }
 
 .home-area .intro-text > span.wave {
-  animation: introTextWave 0.5s linear;
+  animation: introTextWave 0.3s linear;
 }
 
 @keyframes introTextWave {
@@ -256,7 +256,7 @@ section {
 .home-area .intro-avatar-wrap > img {
   max-width: 170px;
   transform: translateX(-100%);
-  transition: transform 0.5s linear;
+  transition: transform 0.3s linear;
   transition-delay: 1s;
 }
 
