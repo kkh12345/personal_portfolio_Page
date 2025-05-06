@@ -20,7 +20,7 @@
 
 | Intro animation                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh3/blob/main/Animation.gif)
+![image](https://github.com/kkh12345/personal_portfolio_Page/blob/main/Animation.gif)
  * 사이트에 접속했을 때, 스크롤 양이 0이면 애니메이션 실행
  * 모바일,태블릿에서는 제거
 
@@ -28,7 +28,7 @@
 
 | Text animation                                                                                                  |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh3/blob/main/Animation%20text.gif)
+![image](https://github.com/kkh12345/personal_portfolio_Page/blob/main/Animation%20text.gif)
  * 스크롤하여 섹션 이동 시 텍스트 업-다운 애니메이션 (pc)
  * 모바일,태블릿에서는 제거
 
@@ -36,7 +36,7 @@
 
 | Go to section                                                                                                  |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh3/blob/main/section.gif)
+![image](https://github.com/kkh12345/personal_portfolio_Page/blob/main/section.gif)
  * 오른쪽 메뉴 클릭 시, 원하는 섹션으로 이동
 
 <br><br>
@@ -48,14 +48,14 @@
 
 | Education                                                                                                    |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh3/blob/main/edu.png)
+![image](https://github.com/kkh12345/personal_portfolio_Page/blob/main/edu.png)
  * 간단한 학력 기재
 
 <br><br>
 
 | Projects                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh3/blob/main/projects.png)
+![image](https://github.com/kkh12345/personal_portfolio_Page/blob/main/projects.png)
  * 포트폴리오 모음 슬라이드
  * 포트폴리오 카드 호버 시 Github,배포 페이지로 이동 가능(pc)
  * 모바일,태블릿 호버효과 제거
@@ -64,26 +64,26 @@
 
 | Skills                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh3/blob/main/skills.png)
+![image](https://github.com/kkh12345/personal_portfolio_Page/blob/main/skills.png)
  * 스킬 간단 소개
 
 <br><br>
 
 | Responsive(tablet)                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh3/blob/main/tablet.png)
+![image](https://github.com/kkh12345/personal_portfolio_Page/blob/main/tablet.png)
 
 <br><br>
 
 | Responsive(mobile)                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh3/blob/main/mobile.png)
+![image](https://github.com/kkh12345/personal_portfolio_Page/blob/main/mobile.png)
 
 
  <br><br>
 | Responsive(mobile,tablet)                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh3/blob/main/responsive.gif)
+![image](https://github.com/kkh12345/personal_portfolio_Page/blob/main/responsive.gif)
  * 휠,터치 업 시 섹션 메뉴 등장
    
 
